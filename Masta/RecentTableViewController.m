@@ -32,7 +32,7 @@
 
 -(UITableViewCell *)tableView:(UITableView *)tableView cellForRowAtIndexPath:(NSIndexPath *)indexPath{
     UITableViewCell *cell = [UITableViewCell new];
-    cell.textLabel.text = [NSString stringWithFormat:@"%@", [[self.json objectAtIndex:indexPath.row] objectForKey:@"id"]];
+    cell.textLabel.text = [NSString stringWithFormat:@"%@", [[self.json objectAtIndex:indexPath.row] objectForKey:@"shortTitle"]];
     
     return cell;
 }

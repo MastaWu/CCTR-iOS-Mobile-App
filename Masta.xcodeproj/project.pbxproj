@@ -206,7 +206,7 @@
 				TargetAttributes = {
 					37072C1F1AB0D1DD001CD66F = {
 						CreatedOnToolsVersion = 6.1.1;
-						DevelopmentTeam = 9AF9663MHJ;
+						DevelopmentTeam = 83J8F7QH8J;
 					};
 					37072C381AB0D1DD001CD66F = {
 						CreatedOnToolsVersion = 6.1.1;
@@ -425,7 +425,7 @@
 				INFOPLIST_FILE = MastaTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Masta.app/Masta";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CCTR Mobile App.app/CCTR Mobile App";
 			};
 			name = Debug;
 		};
@@ -440,7 +440,7 @@
 				INFOPLIST_FILE = MastaTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Masta.app/Masta";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CCTR Mobile App.app/CCTR Mobile App";
 			};
 			name = Release;
 		};

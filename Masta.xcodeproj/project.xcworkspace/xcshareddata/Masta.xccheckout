@@ -12,22 +12,34 @@
 	<dict>
 		<key>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</key>
 		<string>https://github.com/kentwhite33/Masta.git</string>
+		<key>DB8F589F9703358B1BA1CCD7052E229B5DC24304</key>
+		<string>https://github.com/MastaWu/CCTR-iOS-Mobile-App.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>Masta.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</key>
+		<string>../../../Masta</string>
+		<key>DB8F589F9703358B1BA1CCD7052E229B5DC24304</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/kentwhite33/Masta.git</string>
+	<string>https://github.com/MastaWu/CCTR-iOS-Mobile-App.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</string>
+	<string>DB8F589F9703358B1BA1CCD7052E229B5DC24304</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB8F589F9703358B1BA1CCD7052E229B5DC24304</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CCTR%20-%20iOS%20Mobile%20App</string>
+		</dict>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
