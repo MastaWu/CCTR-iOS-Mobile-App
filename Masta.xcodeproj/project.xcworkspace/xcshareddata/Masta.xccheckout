@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91E459A6-D528-4687-87BA-E5E2149FDA7F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Masta</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</key>
+		<string>https://github.com/kentwhite33/Masta.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Masta.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/kentwhite33/Masta.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BB7F85B976BCCF12CF8DCA28F476B6485790C14A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Masta</string>
+		</dict>
+	</array>
+</dict>
+</plist>
